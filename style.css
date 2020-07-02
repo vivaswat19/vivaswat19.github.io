@@ -1,8 +1,8 @@
 html, body {
     height: 100%;
     width: 100%;
-    background: url("http://getwallpapers.com/wallpaper/full/1/7/5/844859-amazing-best-1080p-wallpapers-1920x1080.jpg") center center fixed;
-    background-size: cover;
+    background: url("http://getwallpapers.com/wallpaper/full/1/7/5/844859-amazing-best-1080p-wallpapers-1920x1080.jpg") no-repeat center center fixed;
+    background-size: 1f;
     -moz-background-size: cover;
     -o-background-size: cover;
     -webkit-backdrop-size: cover;
